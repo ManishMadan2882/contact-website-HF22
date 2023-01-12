@@ -13,7 +13,7 @@ for example check [manish-contact-card].
 <br>
 
 
-Example link:- https://github.com/mukulbbhardwaj/create-contact-card-HF22/tree/main/manish-contact-card
+Example link:- https://github.com/mukulbbhardwaj/create-contact-card-HF22/tree/main/manish_contact_card
 
 <br>
 
